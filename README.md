@@ -3,9 +3,8 @@
 
 A Beautiful WPF Control UI
 
-具体使用请参考 AduSkin.Demo
-
-WPF UI 外包 可联系我
+当前项目已停止维护，建议使用新版本。
+https://github.com/AduDesign/AduSkin-Preview 
 
 技术交流
 
@@ -54,7 +53,6 @@ xmlns:AduSkin="clr-namespace:AduSkin.Controls.Metro;assembly=AduSkin"
 <AduSkin:MetroWindow x:Class="MainWindow"/>
 //使用控件
 <AduSkin:AduFlatButton Content="按钮"/>
-
 ```
 
 
@@ -68,10 +66,6 @@ Install-Package VideoLAN.LibVLC.Windows
 ```
 
 # 开发案例如下
-
-> 【AduMusic】
-
-![image](https://github.com/aduskin/AduSkin/blob/master/screenshot/project/AduMusic.jpg)
 
 > 【AZai】
 
